@@ -1,1 +1,20 @@
+body {
+    background-color:lightblue;
+}
+h1{
+    border-bottom: red;
+    font-size: 16px;
+}
+li{
+    color:blanchedalmond;
+    text-decoration-color: blue;
+    
+}
+a{
+    color:rgb(0, 162, 255);
+}
 
+a:hover{
+    color:brown;
+    text-decoration-color: cornsilk;
+}
