@@ -1,0 +1,42 @@
+.header{
+    
+  padding: 100px;
+text-align: center;
+background:blue;
+color: white;
+font-size: 30px;
+}
+
+.footer{
+ padding: 30px;
+  text-align: center;
+  background: black;
+  color:white;
+}
+
+
+.flexbox {  
+  display: -ms-flexbox; 
+  display: flex;
+  -ms-flex-wrap: wrap; 
+  flex-wrap: wrap;
+}
+
+navbar {
+  background-color: yellow;
+  min-height: 500px;
+  min-width: 400px;
+  align-content: space-between;
+  font-size: large;
+}
+
+.flexgrowncon{
+  display:flex;
+  align-items:stretch;
+}
+
+body {margin:0; padding:0;}
+
+content{
+  padding:10px;
+}
