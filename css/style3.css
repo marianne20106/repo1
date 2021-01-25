@@ -1,0 +1,35 @@
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #555;
+    outline: none;
+  }
+
+    body{
+      background-color: blanchedalmond;
+      overflow-x: hidden;
+    }
+   
+    
+  label{
+  font-weight: bold;
+}
+#footer { 
+    position: fixed; 
+    padding: 10px 10px 0px 10px; 
+    bottom: 0; 
+    width: 100%; 
+   
+    height: 40px; 
+    background:gray;  
+    text-align: center;
+  } 
+  li{
+    color:black;
+  }
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
